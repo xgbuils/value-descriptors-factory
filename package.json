@@ -16,10 +16,11 @@
     "url": "git+https://github.com/xgbuils/value-descriptors-factory.git"
   },
   "keywords": [
-    "iterable",
-    "lazy",
-    "slice",
-    "arraylike"
+    "value",
+    "descriptors",
+    "defineProperties",
+    "properties",
+    "factory"
   ],
   "author": "Xavier Garcia Buils <xgbuils@gmail.com> (https://github.com/xgbuils)",
   "license": "MIT",
